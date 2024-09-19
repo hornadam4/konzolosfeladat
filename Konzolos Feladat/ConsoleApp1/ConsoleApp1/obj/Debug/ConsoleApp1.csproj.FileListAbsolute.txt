@@ -1,0 +1,16 @@
+C:\Users\Kei\Desktop\24.25 tanév\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Kei\Desktop\24.25 tanév\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Kei\Desktop\24.25 tanév\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Kei\Desktop\24.25 tanév\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Kei\Desktop\24.25 tanév\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kei\Desktop\24.25 tanév\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kei\Desktop\24.25 tanév\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Kei\Desktop\24.25 tanév\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Kei\Desktop\24.25 tanév\Konzolos Feladat\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Kei\Desktop\24.25 tanév\Konzolos Feladat\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Kei\Desktop\24.25 tanév\Konzolos Feladat\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Kei\Desktop\24.25 tanév\Konzolos Feladat\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Kei\Desktop\24.25 tanév\Konzolos Feladat\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kei\Desktop\24.25 tanév\Konzolos Feladat\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kei\Desktop\24.25 tanév\Konzolos Feladat\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Kei\Desktop\24.25 tanév\Konzolos Feladat\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
